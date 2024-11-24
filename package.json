@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "gh-pages": "^6.2.0"
+  },
+  "homepage": "https://sam-ryong.github.io/wasm_grad/",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  }
+}
